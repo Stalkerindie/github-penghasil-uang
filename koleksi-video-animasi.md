@@ -45,10 +45,29 @@ Sumber: X post Kristina娜娜酱 [@nanajiang8888](https://x.com/nanajiang8888/st
 | 19 | [WhisperX](https://github.com/m-bain/whisperX) | Penyelarasan timeline subtitle otomatis |
 | 20 | [FFmpeg](https://github.com/FFmpeg/FFmpeg) | Export dan transcode video |
 
+## 8 Skill Video Muse — 24 Nov 2026
+
+Sumber: postingan X @nexai_sbus, 24 Nov 2026. Semua repo diverifikasi via GitHub API 24 Nov 2026.
+
+| # | Nama | Stars | Kegunaan |
+|---|------|-------|----------|
+| 1 | [stickman-video-director](https://github.com/kaomei/stickman-video-director) | 7.908 | Naskah jadi video stickman, 20+ gaya, voiceover + caption + SFX |
+| 2 | [stickman-skill](https://github.com/krishnagoswami52/stickman-skill) | 27 | Video stickman sinematik dari kode, voiceover AI gratis |
+| 3 | [claude-animated-shorts](https://github.com/mromidev/claude-animated-shorts) | 4.761 | Short vertikal kartun 3D 55–70 detik, Remotion + Three.js |
+| 4 | [Muse-animated-short-film](https://github.com/sonlovinbot-team/Muse-animated-short-film) | 123 | Film pendek utuh, ide sampai MP4 |
+| 5 | [ai-fictive-story-films](https://github.com/etnt/my-skills/blob/HEAD/ai-fictive-story-films/SKILL.md) | 3* | Novel jadi film, Kling + anchor karakter (Kling berbayar) |
+| 6 | [video-prompt-director](https://github.com/Wanfeng1028/muse/blob/main/source/skill/ai-film-skills-video-prompt-director/SKILL.md) | 5* | Prompt satu shot khusus Seedance 2.5 (Seedance berbayar) |
+| 7 | [motion-starter-kit](https://github.com/motalim-ai/motion-starter-kit) | 59 | Motion graphics Remotion, 10 gaya |
+| 8 | [cinematic-skill](https://github.com/Moh4696/cinematic-skill) | 952 | Film naratif sinematik murni kode, dubbing lengkap |
+
+\* Stars repo induk (skill-nya satu file di dalam repo).
+
+Gratis murni kode: stickman-skill, claude-animated-shorts, motion-starter-kit, cinematic-skill. Butuh API berbayar: ai-fictive-story-films (Kling), video-prompt-director (Seedance 2.5).
+
 ## Cara Pakai
 
 1. Tentukan dulu jenis videonya: explainer (Manim), sinematik 3D (Three.js + postprocessing), atau video React (Remotion).
 2. Ambil skill yang sesuai dari tabel di atas, baca SKILL.md / README repo-nya sebelum memakai.
 3. Sinkronkan suara terakhir (librosa / WhisperX), lalu export dengan FFmpeg.
 
-*Dikurasi oleh Aspri untuk Rifai · 23 Nov 2026*
+*Dikurasi oleh Aspri untuk Rifai · 23–24 Nov 2026*
