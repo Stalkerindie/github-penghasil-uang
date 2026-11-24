@@ -1,4 +1,4 @@
-# Koleksi Video & Animasi — 20 Repo dan Skill
+# Koleksi Video & Animasi — Repo dan Skill
 
 > Ubah Muse jadi studio animasi: alurnya **Skill → Scene → Animasi → Suara → Video jadi**.
 > Jangan install semua 20 sekaligus — pakai per proyek, hanya yang proyek itu butuhkan.
@@ -80,10 +80,39 @@ Sumber: postingan Instagram @jerryswn (Jerry Su), 20 Nov 2026. 9 dari 10 repo te
 | 8 | [OpenVDB](https://github.com/AcademySoftwareFoundation/openvdb) | 3.552 | VFX film: asap, api, kabut (library C++) |
 | 9 | [SVG.js](https://github.com/svgdotjs/svg.js) | 11.959 | Animasi SVG di browser: logo, ilustrasi, diagram |
 
+## Motion Studio Gratis — 14 Repo (After Effects vs Muse)
+
+Sumber: postingan X yang di-forward Rifai (25 Nov 2026) — "After Effects ketemu
+saingan, Muse + 14 repo github gratis udah jadi satu motion studio lengkap".
+Semua terverifikasi via GitHub API 25 Nov 2026 (stars live, tautan t.co
+di-resolve satu per satu).
+
+| # | Nama | Stars | Kegunaan |
+|---|------|-------|----------|
+| 1 | [anime.js](https://github.com/juliangarnier/anime) | 75.033 | Engine animasi web yang halus |
+| 2 | [react-spring](https://github.com/pmndrs/react-spring) | 29.332 | Gerakan UI pakai fisika pegas (React) |
+| 3 | [PixiJS](https://github.com/pixijs/pixijs) | 48.890 | Render 2D kencang, partikel, 60fps |
+| 4 | [p5.js](https://github.com/processing/p5.js) | 24.421 | Generative art beberapa baris (LGPL-2.1) |
+| 5 | [matter-js](https://github.com/liabru/matter-js) | 18.674 | Fisika 2D: jatuh, mantul, tabrakan |
+| 6 | [D3](https://github.com/d3/d3) | 113.999 | Grafik bergerak, visualisasi data |
+| 7 | [Motion Canvas](https://github.com/motion-canvas/motion-canvas) | 20.203 | Animasi 2D ditulis pakai kode |
+| 8 | [Blender](https://github.com/blender/blender) | 22.445 | 3D pakai Python, langsung render (praktis butuh GPU) |
+| 9 | [Three.js](https://github.com/mrdoob/three.js) | 119.293 | Scene 3D jalan di browser |
+| 10 | [Remotion Skills](https://github.com/remotion-dev/skills) | 7.946 | Skill resmi nyuruh AI bikin video (gratis s.d. tim 3 orang) |
+| 11 | [Lottie Web](https://github.com/airbnb/lottie-web) | 32.569 | Animasi After Effects diputar di web |
+| 12 | [RIFE](https://github.com/hzwer/ECCV2022-RIFE) | 5.724 | Frame di antara frame, slowmo 60fps (praktis butuh GPU) |
+| 13 | [MusicGen](https://github.com/facebookresearch/audiocraft) | 23.952 | Tulis suasana, jadi BGM — NON-KOMERSIAL (CC-BY-NC 4.0), praktis butuh GPU |
+| 14 | [Tone.js](https://github.com/Tonejs/Tone.js) | 14.946 | Synth, beat, SFX di browser |
+
+Catatan: Blender, Three.js, Lottie Web, Remotion Skills sudah ada di bagian atas
+file ini (angka stars di sini yang terbaru, 25 Nov 2026). MusicGen = model di
+dalam repo AudioCraft, bukan repo sendiri. Detail + caveat GPU/lisensi di skill
+`motion-studio-14-repos-2026-11-25`.
+
 ## Cara Pakai
 
 1. Tentukan dulu jenis videonya: explainer (Manim), sinematik 3D (Three.js + postprocessing), atau video React (Remotion).
 2. Ambil skill yang sesuai dari tabel di atas, baca SKILL.md / README repo-nya sebelum memakai.
 3. Sinkronkan suara terakhir (librosa / WhisperX), lalu export dengan FFmpeg.
 
-*Dikurasi oleh Aspri untuk Rifai · 23–24 Nov 2026*
+*Dikurasi oleh Aspri untuk Rifai · 23–25 Nov 2026*
