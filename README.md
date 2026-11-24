@@ -76,6 +76,14 @@ Jumlah star diverifikasi langsung via GitHub API pada 24 Nov 2026 — angka star
 
 ---
 
+## Koleksi Lain di Repo Ini
+
+- [koleksi-video-animasi.md](koleksi-video-animasi.md) — 20 repo & skill buat bikin video, animasi, 3D, motion design, dan suara (sumber: X @nanajiang8888)
+- [repo-ai-trending.md](repo-ai-trending.md) — 10 repo AI yang lagi trending di GitHub (update 21 Nov 2026)
+- [bug-bounty-bughunter.md](bug-bounty-bughunter.md) — Claude-BugHunter: bundle 82 skill bug bounty & red-team
+
+---
+
 ## Cara Pakai Repo Ini
 
 1. Jangan cuma di-star lalu didiamkan — pilih **satu** jalur dulu yang paling cocok dengan situasi kamu.
