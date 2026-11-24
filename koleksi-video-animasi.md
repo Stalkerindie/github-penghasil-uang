@@ -64,6 +64,22 @@ Sumber: postingan X @nexai_sbus, 24 Nov 2026. Semua repo diverifikasi via GitHub
 
 Gratis murni kode: stickman-skill, claude-animated-shorts, motion-starter-kit, cinematic-skill. Butuh API berbayar: ai-fictive-story-films (Kling), video-prompt-director (Seedance 2.5).
 
+## 10 Repo Gratis Animasi ala Hollywood — 24 Nov 2026
+
+Sumber: postingan Instagram @jerryswn (Jerry Su), 20 Nov 2026. 9 dari 10 repo terverifikasi via GitHub API 24 Nov 2026; repo ke-10 (slide 11) terkunci dinding login Instagram, belum diketahui.
+
+| # | Nama | Stars | Kegunaan |
+|---|------|-------|----------|
+| 1 | [OpenToonz](https://github.com/opentoonz/opentoonz) | 8.365 | Film animasi 2D produksi penuh (dipakai Studio Ghibli) |
+| 2 | [Friction](https://github.com/friction2d/friction) | 2.109 | Motion graphic untuk video & website |
+| 3 | [FreeMoCap](https://github.com/freemocap/freemocap) | 10.893 | Motion capture tanpa marker, dari kamera biasa |
+| 4 | [Synfig Studio](https://github.com/synfig/synfig) | 2.472 | Animasi 2D vektor/bitmap tanpa gambar tiap frame |
+| 5 | [Effekseer](https://github.com/effekseer/Effekseer) | 2.139 | Efek partikel real-time untuk game |
+| 6 | [Theatre.js](https://github.com/theatre-js/theatre) | 13.107 | Motion design editor untuk web, 3D, interaktif |
+| 7 | [Pencil2D](https://github.com/pencil2d/pencil) | 1.925 | Kartun gambar tangan frame-demi-frame, ringan |
+| 8 | [OpenVDB](https://github.com/AcademySoftwareFoundation/openvdb) | 3.552 | VFX film: asap, api, kabut (library C++) |
+| 9 | [SVG.js](https://github.com/svgdotjs/svg.js) | 11.959 | Animasi SVG di browser: logo, ilustrasi, diagram |
+
 ## Cara Pakai
 
 1. Tentukan dulu jenis videonya: explainer (Manim), sinematik 3D (Three.js + postprocessing), atau video React (Remotion).
