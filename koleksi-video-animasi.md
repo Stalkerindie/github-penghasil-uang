@@ -109,6 +109,26 @@ file ini (angka stars di sini yang terbaru, 25 Nov 2026). MusicGen = model di
 dalam repo AudioCraft, bukan repo sendiri. Detail + caveat GPU/lisensi di skill
 `motion-studio-14-repos-2026-11-25`.
 
+## claude-make-an-anime — Plugin Anime Claude Code
+
+Sumber: postingan X yang di-forward Rifai (25 Nov 2026) — "Berikan Claude Code
+sebuah cerita, dan ia akan menghadiahkanmu sebuah animasi".
+
+| Nama | Stars | Kegunaan |
+|------|-------|----------|
+| [claude-make-an-anime](https://github.com/makevoid/claude-make-an-anime) | 219 | Plugin Claude Code: cerita → anime jadi (karakter, suara, musik, subtitle, SFX, VFX) — klip 12 detik sampai episode penuh |
+
+Cara pakai: `/plugin marketplace add makevoid/claude-make-an-anime`, lalu
+`/plugin install make-an-anime@make-an-anime`, lalu
+`/make-an-anime Make a 2-minute pilot from story.md`. Alur: character/location
+sheets (GPT Image 2.6) → suara + score (ElevenLabs) → keyframes → shot
+(MiniMax H3 default, Seedance 2.5 opsional) → overlay p5 (judul/subtitle) →
+SFX → finish VFX.
+
+PERHATIAN: plugin-nya gratis (MIT), tapi semua generasi BERBAYAR lewat Fal —
+butuh akun Fal berisi kredit; cek harga Fal dulu. VFX pass butuh macOS.
+Detail di skill `claude-make-an-anime`.
+
 ## Cara Pakai
 
 1. Tentukan dulu jenis videonya: explainer (Manim), sinematik 3D (Three.js + postprocessing), atau video React (Remotion).
