@@ -136,3 +136,16 @@ Detail di skill `claude-make-an-anime`.
 3. Sinkronkan suara terakhir (librosa / WhisperX), lalu export dengan FFmpeg.
 
 *Dikurasi oleh Aspri untuk Rifai · 23–25 Nov 2026*
+
+## Skill video Muse dari @shimis_88 (25 Nov 2026)
+
+Sumber: https://x.com/shimis_88/status/2125252873252647220 — semua repo diverifikasi via GitHub API 25 Nov 2026.
+
+- [masonmosen/muse-video-prompt-skill](https://github.com/masonmosen/muse-video-prompt-skill) — 229 stars, MIT. Prompt enam tahap + stitching multi-segmen untuk video sinematik.
+- [sonlovinbot-team/Muse-animated-short-film](https://github.com/sonlovinbot-team/Muse-animated-short-film) — 152 stars, MIT. Film animasi pendek dari ide sampai MP4.
+- [LuoJiangYong/muse-video-skill](https://github.com/LuoJiangYong/muse-video-skill) — 186 stars, MIT. Kru film virtual 6 peran + 38 kasus untuk iklan/video merek.
+- [CryptoYuyyy02/stickman-video-director](https://github.com/CryptoYuyyy02/stickman-video-director) — 228 stars, lisensi NOASSERTION. Referensi stickman tambahan; pilihan utama tetap kaomei/stickman-video-director (MIT) dari koleksi sebelumnya.
+- [apimodels/muse-video-prompts](https://github.com/apimodels/muse-video-prompts) — 152 stars, CC-BY-4.0. 204 prompt Muse Video dari X dengan kredit sumber.
+- [threerocks/sweety-handdraw-video](https://github.com/threerocks/sweety-handdraw-video) — 1.290 stars, MIT. Video edukasi gambar tangan render lokal.
+
+Catatan: skill prompt gratis tidak berarti render video tanpa batas; beberapa alur memakai model video Muse atau layanan voiceover.
