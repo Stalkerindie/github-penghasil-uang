@@ -14,7 +14,7 @@ Sumber: [meikan.moveai.jp/trending](https://meikan.moveai.jp/trending/?from=x_ai
 | 3 | [meta/astryx](https://github.com/meta/astryx) | 31 ribu | Design system open-source dari Meta, mudah dikustomisasi, siap dipakai agen |
 | 4 | [anthropics/skills](https://github.com/anthropics/skills) | 198 ribu | Kumpulan resmi Agent Skills dari Anthropic — contoh, template, implementasi (termasuk skill dokumen PDF/Excel) |
 | 5 | [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | 21 ribu | Protokol penghubung agen AI dengan aplikasi front-end |
-| 6 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 73 ribu | Skill riset: kumpulkan + rangkum topik 30 hari terakhir dari Reddit, X, YouTube, Hacker News, dll. (MIT) |
+| 6 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 74.718 | Skill riset 30 hari terakhir dari Reddit, X, YouTube, TikTok, HN, Polymarket, GitHub, arXiv, dll.; 6.587 forks, MIT; sebagian sumber sosial butuh API key/sesi resmi. |
 | 7 | [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | 9.534 | Panduan best-practice web terbaru untuk coding agent (dari Google Chrome) |
 | 8 | [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | 7.439 | Skill analisis pasar, chart, kalender ekonomi, screening saham |
 | 9 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 68 ribu | Latih LLM kecil (±64M parameter) dari nol |
